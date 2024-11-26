@@ -1,0 +1,15 @@
+/Users/kyotzu/Projects/patterns/patterns/bin/Debug/net7.0/patterns
+/Users/kyotzu/Projects/patterns/patterns/bin/Debug/net7.0/patterns.deps.json
+/Users/kyotzu/Projects/patterns/patterns/bin/Debug/net7.0/patterns.runtimeconfig.json
+/Users/kyotzu/Projects/patterns/patterns/bin/Debug/net7.0/patterns.dll
+/Users/kyotzu/Projects/patterns/patterns/bin/Debug/net7.0/patterns.pdb
+/Users/kyotzu/Projects/patterns/patterns/obj/Debug/net7.0/patterns.csproj.AssemblyReference.cache
+/Users/kyotzu/Projects/patterns/patterns/obj/Debug/net7.0/patterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyotzu/Projects/patterns/patterns/obj/Debug/net7.0/patterns.AssemblyInfoInputs.cache
+/Users/kyotzu/Projects/patterns/patterns/obj/Debug/net7.0/patterns.AssemblyInfo.cs
+/Users/kyotzu/Projects/patterns/patterns/obj/Debug/net7.0/patterns.csproj.CoreCompileInputs.cache
+/Users/kyotzu/Projects/patterns/patterns/obj/Debug/net7.0/patterns.dll
+/Users/kyotzu/Projects/patterns/patterns/obj/Debug/net7.0/refint/patterns.dll
+/Users/kyotzu/Projects/patterns/patterns/obj/Debug/net7.0/patterns.pdb
+/Users/kyotzu/Projects/patterns/patterns/obj/Debug/net7.0/patterns.genruntimeconfig.cache
+/Users/kyotzu/Projects/patterns/patterns/obj/Debug/net7.0/ref/patterns.dll
